@@ -7,5 +7,5 @@ $_SESSION = [];
 
 session_destroy();
 
-redirectTo('index.php');
+redirectTo('categoryIndex.php');
 exit;
